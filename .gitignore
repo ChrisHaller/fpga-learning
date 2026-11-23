@@ -1,0 +1,6 @@
+gate.fs
+gate_pnr.json
+gate.json
+build/blink_pnr.json
+build/blink.fs
+build/blink.json
